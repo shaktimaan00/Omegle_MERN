@@ -2,13 +2,12 @@
 
 ## Introduction
 
-This readme provides an overview of the MERN (MongoDB, Express.js, React.js, Node.js) stack project and its components.
+This readme provides an overview of the MERN (Express.js, Next.js, Node.js) stack project and its components.
 
 ## Project Overview
 
 The MERN stack project is a full-stack web development project that leverages the following technologies:
 
-- **MongoDB**: A NoSQL database used for storing data.
 - **Express.js**: A backend framework for building web applications and APIs using Node.js.
 - **React.js**: A JavaScript library for building user interfaces.
 - **Node.js**: A JavaScript runtime environment that executes server-side code.
@@ -19,15 +18,14 @@ The project directory structure typically includes the following components:
 
 - **Client**: Contains the front-end code written in React.js.
 - **Server**: Contains the back-end code written in Node.js using Express.js.
-- **Database**: Contains MongoDB database configurations and models.
 
 ```
 mern-stack-project/
   |- client/
   |  |- public/
   |  |- src/
+  |  |- app/
   |  |  |- components/
-  |  |  |- pages/
   |  |  |- App.js
   |  |  |- index.js
   |- server/
