@@ -60,11 +60,11 @@ To run the MERN stack project locally, follow these steps:
 4. **Start the Development Server**: Run the development server for both the client and server.
    ```bash
    cd client
-   npm start
+   npm run dev
    ```
    ```bash
    cd server
-   npm start
+   npm run dev
    ```
 5. **Access the Application**: Access the application in your web browser at `http://localhost:3000`.
 
