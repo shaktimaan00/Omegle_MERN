@@ -9,7 +9,7 @@ This readme provides an overview of the MERN (Express.js, Next.js, Node.js) stac
 The MERN stack project is a full-stack web development project that leverages the following technologies:
 
 - **Express.js**: A backend framework for building web applications and APIs using Node.js.
-- **React.js**: A JavaScript library for building user interfaces.
+- **Next.js**: A JavaScript library for building user interfaces.
 - **Node.js**: A JavaScript runtime environment that executes server-side code.
 
 ## Project Structure
