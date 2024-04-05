@@ -16,7 +16,7 @@ The MERN stack project is a full-stack web development project that leverages th
 
 The project directory structure typically includes the following components:
 
-- **Client**: Contains the front-end code written in React.js.
+- **Client**: Contains the front-end code written in Next.js.
 - **Server**: Contains the back-end code written in Node.js using Express.js.
 
 ```
@@ -43,7 +43,7 @@ To run the MERN stack project locally, follow these steps:
 
 1. **Clone the Repository**: Clone the project repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/mern-stack-project.git
+   https://github.com/shaktimaan00/Omegle_MERN.git
    ```
 2. **Install Dependencies**: Navigate to the project directory and install dependencies for both the client and server.
    ```bash
@@ -54,8 +54,7 @@ To run the MERN stack project locally, follow these steps:
    cd server
    npm install
    ```
-3. **Set Up Environment Variables**: Set up environment variables for MongoDB connection strings, API keys, etc., as required.
-4. **Start the Development Server**: Run the development server for both the client and server.
+3. **Start the Development Server**: Run the development server for both the client and server.
    ```bash
    cd client
    npm run dev
@@ -64,7 +63,7 @@ To run the MERN stack project locally, follow these steps:
    cd server
    npm run dev
    ```
-5. **Access the Application**: Access the application in your web browser at `http://localhost:3000`.
+4. **Access the Application**: Access the application in your web browser at `http://localhost:3000`.
 
 ## Contributing
 
